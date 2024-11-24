@@ -60,7 +60,7 @@ If I were in this situation, here’s what I would do:
 4. **Follow My Instincts:** If something feels suspicious, I would stop and investigate further before continuing.
 
 ---
-
+## Analysis Video link -> https://www.facebook.com/share/v/13vfnUFD6N/
 ## Conclusion
 
 This incident showed me how social engineering can bypass even technical expertise. Attackers don’t always rely on technical exploits; sometimes, they simply manipulate trust. We must remain careful and vigilant, especially in fields like blockchain and cryptocurrency, where the stakes are high. Security is about both technology and behavior, and every mistake is a chance to learn.
